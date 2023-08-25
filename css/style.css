@@ -93,4 +93,30 @@ main {
     font-size: 0.9rem;
 }
 
+.versao-shiny {
+    position: absolute;
+    width: 12%;
+    top: 53%;
+    left: 24%;
+}
+
+.button-shiny {
+    position: absolute;
+    width: 15%;
+    top: 53.5%;
+    left: 22%;
+    border: 0;
+    background-color: #E3E3E3;
+}
+
+.button-shiny:hover {
+    transform: scale(1.08);
+}
+
+.button-shiny img {
+    width: 50%;
+}
+
+
+
 
